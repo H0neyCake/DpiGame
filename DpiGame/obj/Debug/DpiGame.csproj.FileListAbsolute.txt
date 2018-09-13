@@ -1,0 +1,11 @@
+C:\Users\Dmitry\source\repos\DpiGame\DpiGame\bin\Debug\DpiGame.exe.config
+C:\Users\Dmitry\source\repos\DpiGame\DpiGame\bin\Debug\DpiGame.exe
+C:\Users\Dmitry\source\repos\DpiGame\DpiGame\bin\Debug\DpiGame.pdb
+C:\Users\Dmitry\source\repos\DpiGame\DpiGame\obj\Debug\DpiGame.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\DpiGame\DpiGame\obj\Debug\DpiGame.Form1.resources
+C:\Users\Dmitry\source\repos\DpiGame\DpiGame\obj\Debug\DpiGame.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\DpiGame\DpiGame\obj\Debug\DpiGame.Resource1.resources
+C:\Users\Dmitry\source\repos\DpiGame\DpiGame\obj\Debug\DpiGame.csproj.GenerateResource.cache
+C:\Users\Dmitry\source\repos\DpiGame\DpiGame\obj\Debug\DpiGame.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\DpiGame\DpiGame\obj\Debug\DpiGame.exe
+C:\Users\Dmitry\source\repos\DpiGame\DpiGame\obj\Debug\DpiGame.pdb
